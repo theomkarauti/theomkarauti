@@ -1,7 +1,7 @@
 ### Hello, I'm Omkar !! 👋
 
 - 🔭 I’m currently working on Android.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning aabout API.
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
