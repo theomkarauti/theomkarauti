@@ -1,6 +1,6 @@
 ### Hello, I'm Omkar !! 👋
 
-- 🔭 I’m currently working on Android.
+- 🔭 I’m currently working on Java Projct.
 - 🌱 I’m currently learning about API.
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with ...
