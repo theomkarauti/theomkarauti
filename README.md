@@ -1,11 +1,10 @@
 ### Hello, I'm Omkar !! 👋
 
-- 🔭 I’m currently working on Java Projct.
-- 🌱 I’m currently learning about API.
-- 👯 I’m looking to collaborate on Instagram
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Terraform
+- 🌱 I’m currently learning about Docker.
+- 👯 I’m looking to collaborate on Linkedin
+- 🤔 I’m looking for more technical exposure
+- 💬 Ask me about Cloud
+- 📫 How to reach me: https://www.linkedin.com/in/theomkarauti/
+
 
